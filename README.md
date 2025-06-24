@@ -1,3 +1,0 @@
-# LJG_Testing
-
-Testing! 
