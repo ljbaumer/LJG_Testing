@@ -1,0 +1,145 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug GPUCloudModel",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "src.models.GPUCloudModel",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "python": "/opt/homebrew/anaconda3/envs/ai-infra-calc/bin/python"
+        },
+        {
+            "name": "Debug Streamlit GPU Cloud Model App",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "src/streamlit/gpu_cloud_model_app.py"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "python": "/opt/homebrew/anaconda3/envs/ai-infra-calc/bin/python"
+        },
+        {
+            "name": "Debug Buildout Calc App",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "src/streamlit/buildout_calc_app.py"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "python": "/opt/homebrew/anaconda3/envs/ai-infra-calc/bin/python"
+        },
+        {
+            "name": "Debug Labor Value Share Model",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "src.models.LaborValueShareModel",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "args": [],
+            "python": "${workspaceFolder}/.venv/bin/python"
+        },
+        {
+            "name": "Debug InferenceDemandModel",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "src.models.InferenceDemandModel",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "python": "/opt/homebrew/anaconda3/envs/ai-infra-calc/bin/python"
+        },
+        {
+            "name": "Debug Inference Demand App",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "src/streamlit/inference_demand_app.py"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "python": "/opt/homebrew/anaconda3/envs/ai-infra-calc/bin/python"
+        },
+        {
+            "name": "Debug Value Chain App (Interactive)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "src/streamlit/value_chain_app.py",
+                "--server.port",
+                "8510"
+            ],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "justMyCode": true,
+            "stopOnEntry": false,
+            "python": "${workspaceFolder}/.venv/bin/python"
+        },
+        {
+            "name": "Debug CompanyFundingModel (Oracle)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/models/CompanyFundingModel.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Debug AILabLiabilityModel (OpenAI)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/models/AILabLiabilityModel.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Debug Market Cap Analysis Test",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/test_market_cap_analysis.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "python": "${workspaceFolder}/.venv/bin/python"
+        }
+    ]
+}

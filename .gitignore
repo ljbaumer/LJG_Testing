@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/indexed*
+.obsidian/plugins/obsidian-git/
+
+# OS
+.DS_Store
+
+# Scripts / AI
+__pycache__/
+.env
+node_modules/

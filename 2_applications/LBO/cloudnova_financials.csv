@@ -1,0 +1,128 @@
+============================================================
+CloudNova Solutions - Financial Model
+============================================================
+
+All figures in $ millions unless otherwise noted
+Historical years: 2022-2023 | Current year: 2024 | Forecast: 2025-2029
+
+
+--- INCOME STATEMENT ---
+Line Item,2022,2023,2024,2025,2026,2027,2028,2029
+Revenue,184.62,240.00,300.00,366.00,431.88,496.66,556.26,611.89
+Cost of Revenue,-36.92,-48.00,-60.00,-73.20,-86.38,-99.33,-111.25,-122.38
+Gross Profit,147.69,192.00,240.00,292.80,345.50,397.33,445.01,489.51
+
+Sales & Marketing,-64.62,-81.60,-97.50,-113.46,-129.56,-144.03,-155.75,-168.27
+Research & Development,-45.23,-57.12,-68.25,-79.42,-90.69,-100.82,-109.03,-117.79
+General & Administrative,-19.38,-24.48,-29.25,-34.04,-38.87,-43.21,-46.73,-50.48
+Total Operating Expenses,-129.23,-163.20,-195.00,-226.92,-259.13,-288.06,-311.51,-336.54
+
+EBITDA,18.46,28.80,45.00,65.88,86.38,109.27,133.50,152.97
+Depreciation & Amortization,-5.54,-7.20,-9.00,-10.98,-12.96,-14.90,-16.69,-18.36
+EBIT (Operating Income),12.92,21.60,36.00,54.90,73.42,94.37,116.81,134.62
+
+Interest Expense,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Pre-Tax Income (EBT),12.92,21.60,36.00,54.90,73.42,94.37,116.81,134.62
+Income Tax,-3.23,-5.40,-9.00,-13.72,-18.35,-23.59,-29.20,-33.65
+Net Income,9.69,16.20,27.00,41.17,55.06,70.77,87.61,100.96
+
+--- BALANCE SHEET ---
+Line Item,2022,2023,2024,2025,2026,2027,2028,2029
+ASSETS
+Cash & Cash Equivalents,80.50,123.15,182.40,262.29,361.99,483.13,626.03,786.93
+Accounts Receivable,22.76,29.59,36.99,45.12,53.25,61.23,68.58,75.44
+Prepaid Expenses,3.69,4.80,6.00,7.32,8.64,9.93,11.13,12.24
+Total Current Assets,106.95,157.53,225.38,314.73,423.87,554.30,705.73,874.60
+
+"Property, Plant & Equipment, net",15.92,17.12,18.62,20.45,22.61,25.10,27.88,30.94
+"Intangible Assets, net",47.23,43.63,39.13,33.64,27.16,19.71,11.37,2.19
+Goodwill,50.00,50.00,50.00,50.00,50.00,50.00,50.00,50.00
+Other Long-Term Assets,1.85,2.40,3.00,3.66,4.32,4.97,5.56,6.12
+Total Long-Term Assets,115.00,113.15,110.75,107.75,104.09,99.78,94.81,89.25
+
+Total Assets,221.95,270.69,336.14,422.49,527.97,654.08,800.54,963.85
+
+LIABILITIES
+Accounts Payable,3.03,3.95,4.93,6.02,7.10,8.16,9.14,10.06
+Accrued Expenses,7.38,9.60,12.00,14.64,17.28,19.87,22.25,24.48
+Deferred Revenue,30.35,39.45,49.32,60.16,70.99,81.64,91.44,100.58
+Current Portion of Debt,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Total Current Liabilities,40.77,53.00,66.25,80.82,95.37,109.67,122.83,135.12
+
+Long-Term Debt,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Other Long-Term Liabilities,3.69,4.80,6.00,7.32,8.64,9.93,11.13,12.24
+Total Long-Term Liabilities,3.69,4.80,6.00,7.32,8.64,9.93,11.13,12.24
+
+Total Liabilities,44.46,57.80,72.25,88.14,104.01,119.61,133.96,147.36
+
+SHAREHOLDERS' EQUITY
+Common Stock & APIC,164.77,183.97,207.97,237.25,271.80,311.53,356.03,404.98
+Retained Earnings,12.72,28.92,55.92,97.10,152.16,222.94,310.55,411.51
+Total Shareholders' Equity,177.49,212.89,263.89,334.35,423.96,534.47,666.58,816.49
+
+Total Liabilities & Equity,221.95,270.69,336.14,422.49,527.97,654.08,800.54,963.85
+
+--- CASH FLOW STATEMENT ---
+Line Item,2022,2023,2024,2025,2026,2027,2028,2029
+OPERATING ACTIVITIES
+Net Income,9.69,16.20,27.00,41.17,55.06,70.77,87.61,100.96
+Depreciation & Amortization,5.54,7.20,9.00,10.98,12.96,14.90,16.69,18.36
+Stock-Based Compensation,14.77,19.20,24.00,29.28,34.55,39.73,44.50,48.95
+
+Change in Accounts Receivable,-5.90,-6.83,-7.40,-8.14,-8.12,-7.99,-7.35,-6.86
+Change in Prepaid Expenses,-0.96,-1.11,-1.20,-1.32,-1.32,-1.30,-1.19,-1.11
+Change in Accounts Payable,0.79,0.91,0.99,1.08,1.08,1.06,0.98,0.91
+Change in Accrued Expenses,1.91,2.22,2.40,2.64,2.64,2.59,2.38,2.23
+Change in Deferred Revenue,7.87,9.10,9.86,10.85,10.83,10.65,9.80,9.14
+Total Change in Working Capital,4.19,4.85,5.25,5.78,5.77,5.67,5.22,4.87
+
+Cash from Operating Activities,34.19,47.45,65.25,87.21,108.34,131.08,154.02,173.14
+
+INVESTING ACTIVITIES
+Capital Expenditures,-3.69,-4.80,-6.00,-7.32,-8.64,-9.93,-11.13,-12.24
+Other Investing Activities,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Cash from Investing Activities,-3.69,-4.80,-6.00,-7.32,-8.64,-9.93,-11.13,-12.24
+
+FINANCING ACTIVITIES
+Debt Issuance / (Repayment),0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Stock Issuance / (Buybacks),0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Dividends Paid,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Cash from Financing Activities,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+
+Net Change in Cash,30.50,42.65,59.25,79.89,99.70,121.14,142.89,160.90
+Beginning Cash,50.00,80.50,123.15,182.40,262.29,361.99,483.13,626.03
+Ending Cash,80.50,123.15,182.40,262.29,361.99,483.13,626.03,786.93
+
+--- KEY METRICS ---
+Line Item,2022,2023,2024,2025,2026,2027,2028,2029
+Revenue Growth %,35.00,30.00,25.00,22.00,18.00,15.00,12.00,10.00
+Gross Margin %,80.00,80.00,80.00,80.00,80.00,80.00,80.00,80.00
+EBITDA Margin %,10.00,12.00,15.00,18.00,20.00,22.00,24.00,25.00
+EBIT Margin %,7.00,9.00,12.00,15.00,17.00,19.00,21.00,22.00
+Net Income Margin %,5.25,6.75,9.00,11.25,12.75,14.25,15.75,16.50
+
+Rule of 40 Score,45.00,42.00,40.00,40.00,38.00,37.00,36.00,35.00
+
+--- MODEL ASSUMPTIONS ---
+Assumption,Value,Notes
+Gross Margin,80%,Consistent across all years
+D&A % of Revenue,3.0%,Depreciation & Amortization
+SBC % of Revenue,8.0%,Stock-Based Compensation
+CapEx % of Revenue,2.0%,Asset-light SaaS model
+Tax Rate,25%,Effective tax rate
+A/R Days (DSO),45,Days Sales Outstanding
+A/P Days (DPO),30,Days Payable Outstanding
+Deferred Rev Days,60,Annual SaaS contracts
+
+--- GROWTH & MARGIN SCHEDULE ---
+Year,Revenue Growth,EBITDA Margin,Rule of 40
+2022,35%,10%,45
+2023,30%,12%,42
+2024,25%,15%,40
+2025,22%,18%,40
+2026,18%,20%,38
+2027,15%,22%,37
+2028,12%,24%,36
+2029,10%,25%,35
+
+--- END OF MODEL ---

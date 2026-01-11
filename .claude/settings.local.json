@@ -1,0 +1,6 @@
+{
+  "env": {
+    "CLAUDE_CODE_USE_BEDROCK": "true",
+    "ANTHROPIC_MODEL": "arn:aws:bedrock:us-east-1:850995557317:inference-profile/us.anthropic.claude-sonnet-4-20250514-v1:0"
+  }
+}
